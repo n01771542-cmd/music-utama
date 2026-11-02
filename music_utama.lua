@@ -41,7 +41,7 @@ local REPOS = {
   title / artist = yang tampil di UI
 ]]
 local SONG_META = {
-	["music1.lua"]  = { title = "Lagu Satu",     artist = "Artis A" },
+	["music1.lua"]  = { title = "505",     artist = "Arctic Monkeys." },
 	["music2.lua"]  = { title = "Lagu Dua",      artist = "Artis B" },
 	["music3.lua"]  = { title = "Lagu Tiga",     artist = "Artis C" },
 	["music4.lua"]  = { title = "Lagu Empat",    artist = "Artis D" },
